@@ -1,0 +1,6 @@
+console.log(10 == 10)
+console.log(10 == 12)
+console.log(10 == '10')
+console.log(10 === '10')
+console.log(12 > 13)
+console.log(178 <= 123)
